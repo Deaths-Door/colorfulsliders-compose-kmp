@@ -10,11 +10,7 @@ Elevate default sliders using Jetpack Compose with customizable dimensions, grad
 - Elevate sliders with Jetpack Compose and customize dimensions, gradients, borders, and labels.
 - Enjoy Kotlin Multiplatform compatibility for ColorfulIconSlider featuring emoji or any Composable thumbs.
 
-<img src="./screenshots/slider_icons.png" width="30%"/> 
-<img src="./screenshots/slider_gradient.png" width="30%"/> 
-<img src="./screenshots/slider_properties.png" width="30%"/> 
-<img src="./screenshots/slider_labels.png" width="25%"/> 
-<img src="./screenshots/slider_dimensions.png" width="25%"/>
+<img src="./screenshots/slider_icons.png" width="30%"/> <img src="./screenshots/slider_gradient.png" width="30%"/> <img src="./screenshots/slider_properties.png" width="30%"/> <img src="./screenshots/slider_labels.png" width="25%"/> <img src="./screenshots/slider_dimensions.png" width="25%"/>
 
 # Note
 
